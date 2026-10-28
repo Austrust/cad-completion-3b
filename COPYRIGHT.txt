@@ -1,0 +1,6 @@
+Deployment source copyright (c) 2026 Austrust. All rights reserved.
+The source is publicly viewable; no separate MIT or other open-source license
+is granted for project-authored deployment code in this publication.
+Model weights and derivatives are governed by MODEL-LICENSE.txt (Qwen Research
+License). Bundled third-party runtimes retain their own licenses.
+Training code, training datasets and internal experiment records are not included.

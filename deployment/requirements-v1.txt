@@ -1,0 +1,6 @@
+transformers==4.51.3
+peft==0.15.2
+bitsandbytes==0.45.5
+accelerate==1.6.0
+safetensors==0.8.0
+huggingface-hub==0.30.2

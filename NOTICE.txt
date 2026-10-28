@@ -1,0 +1,21 @@
+Built with Qwen
+
+Qwen is licensed under the Qwen RESEARCH LICENSE AGREEMENT, Copyright (c) Alibaba Cloud. All Rights Reserved.
+
+MODIFIED MODEL NOTICE (2026-10-28)
+CAD-completion-3B-v1 is a modified derivative of Qwen2.5-Coder-3B,
+base revision ac059254f4aa58c1078b15635a33f6de9b96f0fa.
+The project trained a LoRA adapter for CadQuery/build123d short CAD operations,
+selected operations-v5-r1 step 900, merged that adapter into the original base,
+and converted and quantized the merged weights for deployment.
+Every GGUF or OpenVINO weight file in this package is a modified derivative;
+none is an unmodified official Qwen model. See manifest.json for exact hashes.
+The accepted source v1 snapshot was not changed by this conversion.
+
+The model is supplied under MODEL-LICENSE.txt, for non-commercial research
+and evaluation. Commercial use requires a license from Alibaba Cloud.
+
+The llama.cpp runtime is a separate component under LLAMA-LICENSE.txt.
+Its distributed LLVM OpenMP license is retained in the runtime directory.
+Optional CUDA runtimes are downloaded unchanged from the pinned official
+llama.cpp release assets and remain subject to their upstream terms.

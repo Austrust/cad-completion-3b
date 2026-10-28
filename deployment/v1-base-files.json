@@ -1,0 +1,54 @@
+{
+  "source": "Official Qwen ModelScope repository",
+  "revision": "ac059254f4aa58c1078b15635a33f6de9b96f0fa",
+  "files": {
+    "LICENSE": {
+      "sha256": "ef52482bb785733093dc9a2e8edd8e764c77d12d8e9d8f10a80c9b547d32d0f9",
+      "bytes": 7388
+    },
+    "README.md": {
+      "sha256": "971c2a6da98ecb8965685b0b7ac82cdab5534dad3f33296697139474f14288ae",
+      "bytes": 4068
+    },
+    "config.json": {
+      "sha256": "b65e3c13e0ce243782cb02c6643cec2dfa404d44237993a1acf3fee38edf369d",
+      "bytes": 661
+    },
+    "configuration.json": {
+      "sha256": "f888421726665e8a84b738eed42a64875aed79de8be7daade851ac8bf4c0cef9",
+      "bytes": 73
+    },
+    "generation_config.json": {
+      "sha256": "215d4506cf90f3590fe821bee47dc92e99caa06f2c1b36076693b5209980009c",
+      "bytes": 139
+    },
+    "merges.txt": {
+      "sha256": "599bab54075088774b1733fde865d5bd747cbcc7a547c5bc12610e874e26f5e3",
+      "bytes": 1671839
+    },
+    "model-00001-of-00002.safetensors": {
+      "sha256": "f4528d2c6caa86a8f922f26675abff773a9b7dd1ccf255eb97255ae76373ada9",
+      "bytes": 4957560304
+    },
+    "model-00002-of-00002.safetensors": {
+      "sha256": "007c3310312712a7762fd0d1db92de9be7cedb2e6eb6dc0afff74f143a9dbb23",
+      "bytes": 1214366696
+    },
+    "model.safetensors.index.json": {
+      "sha256": "7b85f79fd7612df2e5d7f03d7f92d65c8967f790a331146ca7f45658823060d3",
+      "bytes": 35581
+    },
+    "tokenizer.json": {
+      "sha256": "c0382117ea329cdf097041132f6d735924b697924d6f6fc3945713e96ce87539",
+      "bytes": 7031645
+    },
+    "tokenizer_config.json": {
+      "sha256": "283ec39d07ebfd1904aa2dee3c7d73524ed96c489fdb3915629900d3ab3ac319",
+      "bytes": 7228
+    },
+    "vocab.json": {
+      "sha256": "ca10d7e9fb3ed18575dd1e277a2579c16d108e32f27439684afa0e10b1440910",
+      "bytes": 2776833
+    }
+  }
+}
